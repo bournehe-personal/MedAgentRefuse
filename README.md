@@ -93,11 +93,12 @@ print(has_refusal_marker(text))          # False (negation-aware)
 ## Citation
 
 ```bibtex
-@inproceedings{medagentrefuse2026,
+@inproceedings{he2026the,
   title={The Safety Tax: Quantifying the Over-Refusal Cost of Explicit Safety Instructions in Clinical {FHIR}-Write Agents},
-  author={He, Bourne},
-  booktitle={GenAI4Health Workshop at NeurIPS},
-  year={2026}
+  author={Bourne He},
+  booktitle={The Third Workshop on GenAI for Health: Agentic Systems, Clinical Trust, and Future Potential},
+  year={2026},
+  url={https://openreview.net/forum?id=hbe7MuNhlC}
 }
 ```
 
